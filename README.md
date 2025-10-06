@@ -1,10 +1,5 @@
 # 🍳 Power BI Data Model — Food Delivery Analytics
 
-![Data Model](Data%20Modeling.png)
-
-This Power BI project provides an **end-to-end data model** and **executive dashboards** for analyzing performance across **food delivery platforms** — **Menulog**, **Uber Eats**, and **Doordash** — with detailed payout, sales, and performance insights.
-
----
 
 ## 📊 Dashboards
 
@@ -19,6 +14,12 @@ This Power BI project provides an **end-to-end data model** and **executive dash
 - Breakdown by **Spend Category** (Advertising, Commission, Customer Compensation)
 - Trend of **Net Payout % by WeekEnd**
 - **Waterfall and bar visualizations** for reconciliation
+
+---
+
+![Data Model](Data%20Modeling.png)
+
+This Power BI project provides an **end-to-end data model** and **executive dashboards** for analyzing performance across **food delivery platforms** — **Menulog**, **Uber Eats**, and **Doordash** — with detailed payout, sales, and performance insights.
 
 ---
 
