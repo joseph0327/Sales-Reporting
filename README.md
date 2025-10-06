@@ -51,12 +51,6 @@ The model follows a **Star Schema** with centralized Fact tables and supporting 
 - **WeekEnd** standardized to **Sunday (AEST)**  
 - **Platform Names:** Menulog, Uber Eats, Doordash
 
-**Example Values:**
-```
-TotalSalesInclGST = 1011.65
-NetPayoutIncGST   = 570.23
-```
-
 ---
 
 ## 🔁 M Query Tutorials & Techniques
