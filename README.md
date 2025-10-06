@@ -194,12 +194,28 @@ DQ_Profile_AllTables
 ## 🧾 Highlights
 
 - 🔄 Unified multi-platform data model (Menulog, Uber Eats, Doordash)
-- 🧩 Automated column profiling for data quality
 - 📆 Dynamic week-ending date function (AEST)
 - 💡 M Query patterns for merging, grouping, and categorization
 - 📈 Power BI dashboards for **Executive KPIs** and **Payout Analysis**
 
 ---
+## 📈 Additional Visuals & Insights
+
+### Acquisition & Rating Overview
+![Acquisition and Rating Visual](visual3.png)
+- Displays customer acquisition trends and overall store ratings across platforms.
+
+### Platform Details Breakdown
+![Platform Details](visual4.png)
+- Provides insights into platform-specific metrics including sales, payout ratios, and performance distribution.
+
+### Data Quality Alerts
+![Data Quality Alerts](visual5.png)
+- Highlights issues detected during data quality checks such as missing values or duplicates.
+
+### Data Quality Profile
+![Data Quality Profile](visual6.png)
+- Summarizes completeness, data type accuracy, distinct counts, and value distributions across all tables.
 
 ---
 
